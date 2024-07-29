@@ -1,1 +1,1 @@
-# This is a test project
+# This is a hibernate(JPA) test project
